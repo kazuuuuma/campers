@@ -26,7 +26,7 @@
 ## Postsテーブル
 | Column    | Type      | Options           |
 | --------- | --------- | ----------------- |
-| image     |           | null: false       |
+| image     | text      | null: false       |
 | text      | text      |                   |
 | place_id  | integer   | null: false       |
 | toilet_id | integer   | null: false       |
